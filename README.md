@@ -6,3 +6,5 @@ trying to modify the second branch
 how to creat a new branch
 
 have a nice day
+
+creat branch dev2
