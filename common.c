@@ -7,6 +7,7 @@
 void showdata(char *buff, int datalen)
 {
     int i = 0;
+    printf("data:\n");
     for(i = 0, i < datalen, i++)
     {
         printf("0x%02x ", buff[i]);
