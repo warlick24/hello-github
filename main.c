@@ -13,6 +13,5 @@ int main(void)
       databuff[i] = i;
   }
 
-  printf("add for testing revert\n");
   return 0;
 }
