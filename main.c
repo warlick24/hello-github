@@ -6,7 +6,7 @@ int main(void)
   char databuff[128];
   
   printf("hello github!\n");
-  printf("add a new branch");  
+  printf("have a nice day\n");  
 
   for(i = 0, i < sizeof(databuff), i++)
   {
