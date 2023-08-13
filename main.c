@@ -5,7 +5,7 @@ int main(void)
   int i = 0, j = 0;
   char databuff[128];
   
-  printf("hello github!\n");
+  printf("hello world!\n");
   printf("have a nice day\n");  
 
   for(i = 0, i < sizeof(databuff), i++)
